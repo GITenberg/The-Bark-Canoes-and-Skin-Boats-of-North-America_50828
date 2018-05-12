@@ -1,4 +1,8 @@
 _repo: The-Bark-Canoes-and-Skin-Boats-of-North-America_50828
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50828-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Adney, Edwin Tappan
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31411
     wikipedia: http://en.wikipedia.org/wiki/Howard_I._Chapelle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50828#The-Bark-Canoes-and-Skin-Boats-of-North-America
 gutenberg_issued: '2016-01-02'
 gutenberg_type: Text
 identifiers:
